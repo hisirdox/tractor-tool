@@ -1,0 +1,43 @@
+/* .box {
+  background-image: url('/fundo-principal.png');
+  background-size: cover;
+  height: 100vh;
+}
+
+h1 {
+  margin: 0;
+}
+
+.row-1 {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 30px;
+}
+
+.row-1 button {
+  background: #F16A6A;
+  border: none;
+  color: white;
+  padding: 10px 30px;
+}
+
+.tabs {
+  margin: 10px 20px;
+}
+
+.tabs button {
+  margin: 0 10px;
+  background: #3EBDAE;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+}
+
+table {
+  margin: 30px;
+  width: 100%;
+}
+
+th {
+  text-align: left;
+} */
