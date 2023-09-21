@@ -1,20 +1,20 @@
-/* .box {
+.box {
   background-image: url('/fundo-principal.png');
   background-size: cover;
   height: 100vh;
 }
 
-h1 {
+.hello {
   margin: 0;
 }
 
-.row-1 {
+.row_1 {
   display: flex;
   justify-content: space-between;
   padding: 20px 30px;
 }
 
-.row-1 button {
+.row_1 button {
   background: #F16A6A;
   border: none;
   color: white;
@@ -33,11 +33,19 @@ h1 {
   padding: 10px 20px;
 }
 
-table {
-  margin: 30px;
-  width: 100%;
+.grid {
+  border-spacing: 10px;
+  margin: 10px 20px;
 }
 
-th {
+.item {
   text-align: left;
-} */
+}
+
+.arrow_div {
+  display: flex !important;
+}
+
+.arrow_icon {
+  margin-left: 10px !important;
+}

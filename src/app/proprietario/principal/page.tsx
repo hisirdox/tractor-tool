@@ -1,7 +1,6 @@
 'use client';
 import React from 'react';
-// import './page.css';
-import styles from '../../styles/matriz.module.css'
+import styles from '../../styles/proprietario.module.css'
 
 function MyPage() {
   const logout = () => {
@@ -39,6 +38,10 @@ function MyPage() {
           </tr>
         </tbody>
       </table>
+      <div className={styles.tabs}>
+        <button>Manutenção</button>
+        <button>Enviar para revisão</button>
+      </div>
     </div>
   );
 }

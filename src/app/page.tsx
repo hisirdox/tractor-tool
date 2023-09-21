@@ -17,6 +17,9 @@ export default function Home() {
     if (selectedOption === 'proprietario') {
       router.push('/proprietario/principal');
     }
+    if (selectedOption === 'concessionaria') {
+      router.push('/concessionaria/principal');
+    }
   };
 
   return (
